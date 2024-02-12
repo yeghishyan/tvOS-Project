@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BritaliansTV-tvOS/Pods-BritaliansTV-tvOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/XMLCoder/XMLCoder.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GoogleAds-IMA-tvOS-SDK/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds

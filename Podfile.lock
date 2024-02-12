@@ -1,0 +1,24 @@
+PODS:
+  - GoogleAds-IMA-tvOS-SDK (4.9.2)
+  - Kingfisher (7.10.0)
+  - XMLCoder (0.14.0)
+
+DEPENDENCIES:
+  - GoogleAds-IMA-tvOS-SDK (~> 4.9.2)
+  - Kingfisher (~> 7.0)
+  - XMLCoder (~> 0.14.0)
+
+SPEC REPOS:
+  trunk:
+    - GoogleAds-IMA-tvOS-SDK
+    - Kingfisher
+    - XMLCoder
+
+SPEC CHECKSUMS:
+  GoogleAds-IMA-tvOS-SDK: 7e72fb938c246fb9718a3468d3c7fa7c722b2ea1
+  Kingfisher: a18f05d3b6d37d8650ee4a3e61d57a28fc6207f6
+  XMLCoder: 0199b725702f32aa3190a88ea2f6fb4847bfe1d1
+
+PODFILE CHECKSUM: 9dc30ce37419b3156aab6f1bbea6e916534494c0
+
+COCOAPODS: 1.12.1
